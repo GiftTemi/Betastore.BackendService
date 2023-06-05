@@ -1,4 +1,4 @@
-# Betastore.Stage2Task
+# Betastore.BackendService
 All necessary operations have been mocked using seed
 
 Introduction: 
